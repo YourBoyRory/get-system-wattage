@@ -1,0 +1,3 @@
+[submodule "Hardware-Monitor"]
+	path = Hardware-Monitor
+	url = https://github.com/YourBoyRory/Hardware-Monitor.git
